@@ -1,0 +1,9 @@
+D:\проверка для синхронизации\labs(\4_sem\oop\lab1\bin\Release\lab1.exe.config
+D:\проверка для синхронизации\labs(\4_sem\oop\lab1\bin\Release\lab1.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab1\bin\Release\lab1.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab1\obj\Release\lab1.MainForm.resources
+D:\проверка для синхронизации\labs(\4_sem\oop\lab1\obj\Release\lab1.Properties.Resources.resources
+D:\проверка для синхронизации\labs(\4_sem\oop\lab1\obj\Release\lab1.csproj.GenerateResource.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab1\obj\Release\lab1.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab1\obj\Release\lab1.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab1\obj\Release\lab1.pdb
