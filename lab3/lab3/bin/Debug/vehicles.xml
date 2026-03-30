@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vehicle xsi:type="Car">
+    <Brand>Toyota</Brand>
+    <Model>Camry</Model>
+    <Year>2020</Year>
+    <DoorsCount>4</DoorsCount>
+  </Vehicle>
+  <Vehicle xsi:type="Truck">
+    <Brand>Volvo</Brand>
+    <Model>FH16</Model>
+    <Year>2019</Year>
+    <LoadCapacity>20.5</LoadCapacity>
+  </Vehicle>
+  <Vehicle xsi:type="Motorcycle">
+    <Brand>Harley-Davidson</Brand>
+    <Model>Street 750</Model>
+    <Year>2021</Year>
+    <HasSidecar>false</HasSidecar>
+  </Vehicle>
+  <Vehicle xsi:type="ElectricCar">
+    <Brand>Tesla</Brand>
+    <Model>Model 3</Model>
+    <Year>2022</Year>
+    <DoorsCount>4</DoorsCount>
+    <BatteryCapacity>75</BatteryCapacity>
+  </Vehicle>
+  <Vehicle xsi:type="Bicycle">
+    <Brand>Giant</Brand>
+    <Model>Escape 3</Model>
+    <Year>2023</Year>
+    <GearsCount>21</GearsCount>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Brand>Renault</Brand>
+    <Model>Logan Stepway</Model>
+    <Year>2021</Year>
+    <DoorsCount>4</DoorsCount>
+  </Vehicle>
+</ArrayOfVehicle>

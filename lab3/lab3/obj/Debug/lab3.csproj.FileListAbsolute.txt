@@ -1,0 +1,7 @@
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab3\lab3\bin\Debug\lab3.exe.config
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab3\lab3\bin\Debug\lab3.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab3\lab3\bin\Debug\lab3.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab3\lab3\obj\Debug\lab3.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab3\lab3\obj\Debug\lab3.pdb
