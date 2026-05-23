@@ -1,0 +1,9 @@
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\FriendPlugin\bin\Debug\FriendPlugin.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\FriendPlugin\bin\Debug\FriendPlugin.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\FriendPlugin\bin\Debug\CommonInterfaces.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\FriendPlugin\bin\Debug\CommonInterfaces.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\FriendPlugin\obj\Debug\FriendPlugin.csproj.AssemblyReference.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\FriendPlugin\obj\Debug\FriendPlugin.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\FriendPlugin\obj\Debug\FriendPlugin.csproj.CopyComplete
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\FriendPlugin\obj\Debug\FriendPlugin.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\FriendPlugin\obj\Debug\FriendPlugin.pdb

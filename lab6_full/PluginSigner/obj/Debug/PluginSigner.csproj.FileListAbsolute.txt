@@ -1,0 +1,7 @@
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\PluginSigner\bin\Debug\PluginSigner.exe.config
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\PluginSigner\bin\Debug\PluginSigner.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\PluginSigner\bin\Debug\PluginSigner.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\PluginSigner\obj\Debug\PluginSigner.csproj.AssemblyReference.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\PluginSigner\obj\Debug\PluginSigner.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\PluginSigner\obj\Debug\PluginSigner.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\PluginSigner\obj\Debug\PluginSigner.pdb

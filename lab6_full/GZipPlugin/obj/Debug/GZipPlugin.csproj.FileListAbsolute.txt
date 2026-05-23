@@ -1,0 +1,8 @@
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\GZipPlugin\bin\Debug\GZipPlugin.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\GZipPlugin\bin\Debug\GZipPlugin.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\GZipPlugin\bin\Debug\CommonInterfaces.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\GZipPlugin\bin\Debug\CommonInterfaces.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\GZipPlugin\obj\Debug\GZipPlugin.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\GZipPlugin\obj\Debug\GZipPlugin.csproj.CopyComplete
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\GZipPlugin\obj\Debug\GZipPlugin.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\GZipPlugin\obj\Debug\GZipPlugin.pdb

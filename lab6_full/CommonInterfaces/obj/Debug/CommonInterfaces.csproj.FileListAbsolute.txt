@@ -1,0 +1,12 @@
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\CommonInterfaces\bin\Debug\CommonInterfaces.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\CommonInterfaces\bin\Debug\CommonInterfaces.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\CommonInterfaces\obj\Debug\CommonInterfaces.csproj.AssemblyReference.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\CommonInterfaces\obj\Debug\CommonInterfaces.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\CommonInterfaces\obj\Debug\CommonInterfaces.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\CommonInterfaces\obj\Debug\CommonInterfaces.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\CommonInterfaces\bin\Debug\CommonInterfaces.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\CommonInterfaces\bin\Debug\CommonInterfaces.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\CommonInterfaces\obj\Debug\CommonInterfaces.csproj.AssemblyReference.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\CommonInterfaces\obj\Debug\CommonInterfaces.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\CommonInterfaces\obj\Debug\CommonInterfaces.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\CommonInterfaces\obj\Debug\CommonInterfaces.pdb
